@@ -1,4 +1,5 @@
 ## Case 1: Single step (Uniform) density function
+
 c = 3
 tau = 2
 # low density function
